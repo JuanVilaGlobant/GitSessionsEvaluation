@@ -86,7 +86,7 @@
             <targetReference>Pantalla_Multiplicadora</targetReference>
         </connector>
     </start>
-    <status>Draft</status>
+    <status>Active</status>
     <variables>
         <name>Multiplicador1</name>
         <dataType>Number</dataType>
